@@ -1,4 +1,5 @@
- _____        _         _____                  _        
+
+` _____        _         _____                  _        
 |  __ \      | |       / ____|                | |       
 | |  | | __ _| |_ __ _| |     _ __ _   _ _ __ | |_ ___  
 | |  | |/ _` | __/ _` | |    | '__| | | | '_ \| __/ _ \ 
@@ -13,9 +14,10 @@
  / ____ \| | | | (_| | | |_| | |_| | (__\__ \
 /_/    \_\_| |_|\__,_|_|\__, |\__|_|\___|___/
                          __/ |               
-                        |___/                
+                        |___/                `
 
- <a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a>     <img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">  <img alt="GitHub" src="https://img.shields.io/github/license/datacrypto-analytics/crypto-analysis-cli">
+
+<a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a>     <img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">  <img alt="GitHub" src="https://img.shields.io/github/license/datacrypto-analytics/crypto-analysis-cli">
  
 
 Download and install Anaconda Project
