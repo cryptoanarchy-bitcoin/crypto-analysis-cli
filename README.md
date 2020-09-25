@@ -8,13 +8,9 @@ Download and install Anaconda Project
 
 Instalar dependências se necessário 
 
-- NUMPY
+- Instalar Requeriments.txt
 
-`~$ pip install numpy`
-
-- PANDAS
-
-`~$ pip install pandas`
+`~$ pip install -r requirements.txt`
 
 - PYTHON-BINANCE
 
