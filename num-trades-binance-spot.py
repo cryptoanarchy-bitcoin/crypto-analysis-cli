@@ -10,9 +10,12 @@ import pandas as pd
 import datetime as dt
 import matplotlib.pyplot as plt
 from matplotlib import pyplot as plt
+import pyfiglet
 
+ascii_banner = pyfiglet.figlet_format("DataCrypto Analytics")
+print(ascii_banner)
 #=========
-criptomoeda = input('DataCrypto Analytics | Criar gráfico de preços e número de negociações |'
+criptomoeda = input(' | Criar gráfico de preços e número de negociações |'
                     '\n\n | Twitter @DataCryptoML |'
                     '\n | Github @datacryptoanalytics |'
                     '\n \nDigite o par de criptomoedas listada na Binance: ')
