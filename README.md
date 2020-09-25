@@ -6,6 +6,14 @@ Download and install Anaconda Project
 
 - [anaconda.com](https://www.anaconda.com/products/individual#Downloads)
 
+
+- Download
+
+`~$ git clone https://github.com/datacryptoanalytics/crypto-analysis-cli.git`
+
+
+`~$ cd crypto-analysis-cli`
+
 Instalar dependências se necessário 
 
 - Instalar Requeriments.txt
@@ -15,13 +23,6 @@ Instalar dependências se necessário
 - PYTHON-BINANCE
 
 `~$ pip install python-binance`
-
-- Download
-
-`~$ git clone https://github.com/datacryptoanalytics/crypto-analysis-cli.git`
-
-
-`~$ cd crypto-analysis-cli`
 
 - Iniciar algoritmo
 
