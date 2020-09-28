@@ -12,6 +12,7 @@ import datetime as dt
 from matplotlib import pyplot as plt
 import pyfiglet
 
+#=======================
 ascii_banner = pyfiglet.figlet_format("DataCrypto Analytics")
 print(ascii_banner)
 #=========  Esolhe a Criptomoedas e valores de negociação
