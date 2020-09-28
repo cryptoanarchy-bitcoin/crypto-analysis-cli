@@ -20,7 +20,10 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 -----
 ![](giff.gif)
 
-![](Gvl9ML.gif)
+<p align="center">
+  <img width="640" height="360" src="https://j.gifs.com/Gvl9ML.gif">
+</p>
+
 
 
 
