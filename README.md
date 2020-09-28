@@ -57,8 +57,6 @@ Download and install Anaconda Project
 
 <h4>Instalar dependências necessárias </h4>
 
-`datacrypto-analytics_sentimento.py `
-
 
 - Instalar Requeriments.txt
 
