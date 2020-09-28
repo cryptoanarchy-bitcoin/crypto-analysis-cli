@@ -14,7 +14,7 @@ import pyfiglet
 
 ascii_banner = pyfiglet.figlet_format("DataCrypto Analytics")
 print(ascii_banner)
-#=========
+#========================
 criptomoeda = input('  | Create price chart and number of trades |'
                     '\n\n  | Twitter @DataCryptoML |'
                     '\n  | Github @datacryptoanalytics |'
