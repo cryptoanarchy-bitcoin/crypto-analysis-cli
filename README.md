@@ -84,7 +84,8 @@ Download and install Anaconda Project
 
 -------
 
-- Iniciar algoritmo
+<h4>Iniciar algoritmo</h4>
+
 
 `~$ python regressao-linear.py`
 
