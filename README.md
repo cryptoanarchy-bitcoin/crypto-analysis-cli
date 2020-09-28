@@ -97,14 +97,7 @@ Download and install Anaconda Project
 
 
 
-
-
-
-
-
-
-
-<i>Atenção: Este repositório não contém os algoritmos que estão a venda em nosso <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">site</a>. </i>
+<i>Atenção: Este repositório não contém os algoritmos a venda em nosso <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">site</a>. </i>
 
 ------
 
@@ -112,4 +105,3 @@ Download and install Anaconda Project
 
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/fsoarez">
----------
