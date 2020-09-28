@@ -6,7 +6,7 @@
  <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">DataCrypto Analytics </a></h1>
  <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/"> Quantitative Analysis Algorithms </a></h3>
 
- ![](giff.gif)
+ 
 
 
 Algoritmos Machine Learning Quantitativo para o mercado de <b>Criptomoedas</b>. Desenvolvido com rede neural e árvore de decisões que analisa as possiveís movimentações do mercado.
@@ -18,11 +18,12 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 
 - Note that on the website we have the <b> Results </b> page, the <i> Backtesting </i> of our latest version is hosted, and on our channel at <a rel = "Youtube" href = "https: //www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube </a> installation and configuration videos.
 -----
+![](giff.gif)
+
+![](Gvl9ML.gif)
 
 
 
-
-<div style='position:relative;padding-bottom:56.250%;'><iframe src="//gifs.com/embed/crypto-analysis-cli-Gvl9ML" frameborder="0" scrolling="no" width="640" height="360" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
 <h2><b>Instalação</b></h2>
 
 
