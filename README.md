@@ -20,7 +20,7 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 -----
 
 
-![](gif.gif)
+![](giff.gif)
 
 <h2><b>Instalação</b></h2>
 
