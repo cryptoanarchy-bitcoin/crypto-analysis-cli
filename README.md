@@ -29,7 +29,7 @@ Download and install Anaconda Project
 
 - [anaconda.com](https://www.anaconda.com/products/individual#Downloads)
 
-
+-----
 - Download
 
 `~$ git clone https://github.com/datacryptoanalytics/crypto-analysis-cli.git`
@@ -37,8 +37,9 @@ Download and install Anaconda Project
 
 `~$ cd crypto-analysis-cli`
 
+`~$ cd algorithms`
 
-
+-----
 - Abrir `datacrypto-analytics_sentimento.py ` e alterar as seguintes linhas:
 
 `13 consumer_key = 'SUA API KEY TWITTER'`
@@ -51,7 +52,7 @@ Download and install Anaconda Project
  
 `17 access_token_secret = 'SEU ACCESS TOKEN'`
 `
-
+------
 
 <h4>Instalar dependências necessárias </h4>
 
@@ -80,6 +81,8 @@ Download and install Anaconda Project
 
 `~$ pip install python-binance`
 
+-------
+
 - Iniciar algoritmo
 
 `~$ python regressao-linear.py`
@@ -101,10 +104,10 @@ Download and install Anaconda Project
 
 <i>Atenção: Este repositório não contém os algoritmos que estão a venda em nosso <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">site</a>. </i>
 
-
+------
 
 <a href="https://liberapay.com/datacryptoanalytics/donate">  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/fsoarez">
-
+---------
