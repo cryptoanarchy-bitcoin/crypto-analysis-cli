@@ -3,7 +3,10 @@
  
  
 
- <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">DataCrypto Analytics - Quantitative Analysis Algorithms</a></h1>
+ <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">DataCrypto Analytics </a></h1>
+ <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/"> Quantitative Analysis Algorithms </a></h3>
+
+ 
 
 
 Algoritmos Machine Learning Quantitativo para o mercado de <b>Criptomoedas</b>. Desenvolvido com rede neural e árvore de decisões que analisa as possiveís movimentações do mercado.
