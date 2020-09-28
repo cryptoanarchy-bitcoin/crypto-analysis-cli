@@ -3,7 +3,7 @@
  
  
 
- <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">DataCrypto Analytics - Quantitative Analysis Algorithms</a></h3>
+ <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">DataCrypto Analytics - Quantitative Analysis Algorithms</a></h1>
 
 
 Algoritmos Machine Learning Quantitativo para o mercado de <b>Criptomoedas</b>. Desenvolvido com rede neural e árvore de decisões que analisa as possiveís movimentações do mercado.
@@ -14,7 +14,7 @@ Algoritmos Machine Learning Quantitativo para o mercado de <b>Criptomoedas</b>. 
 
 ![](gif.gif)
 
-<h3><b>Instalação</b></h3>
+<h2><b>Instalação</b></h2>
 
 
 Download and install Anaconda Project
