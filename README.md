@@ -27,7 +27,7 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 
 
 
-<h2><b>Instalação</b></h2>
+<h2><b>Instalação/Installation</b></h2>
 
 
 Download and install Anaconda Project
@@ -46,6 +46,7 @@ Download and install Anaconda Project
 
 -----
 - Abrir `datacrypto-analytics_sentimento.py ` e alterar as seguintes linhas:
+- Open `datacrypto-analytics_sentimento.py` and change the following lines:
 
 `13 consumer_key = 'SUA API KEY TWITTER'`
 
@@ -60,7 +61,7 @@ Download and install Anaconda Project
 
 ------
 
-<h4>Instalar dependências necessárias </h4>
+<h4>Instalar dependências necessárias/Install required dependencies </h4>
 
 
 - Instalar Requeriments.txt
@@ -87,7 +88,7 @@ Download and install Anaconda Project
 
 -------
 
-<h4>Iniciar algoritmo</h4>
+<h4>Iniciar algoritmo/Run algorithms</h4>
 
 
 `~$ python regressao-linear.py`
