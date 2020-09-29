@@ -47,7 +47,7 @@ Download and install Anaconda Project
 -----
 - Abrir `datacrypto-analytics_sentimento.py ` e alterar as seguintes linhas:
 - Open `datacrypto-analytics_sentimento.py` and change the following lines:
-```
+
 `13 consumer_key = 'SUA API KEY TWITTER'`
 
 `14 consumer_secret = 'SUA API SECRET KEY TWITTER'`
@@ -57,7 +57,7 @@ Download and install Anaconda Project
 `16 access_token = 'SEU ACCESS TOKEN'`
  
 `17 access_token_secret = 'SEU ACCESS TOKEN'`
-```
+
 
 ------
 
