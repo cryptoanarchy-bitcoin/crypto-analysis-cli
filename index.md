@@ -1,37 +1,111 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/datacrypto-analytics/crypto-analysis-cli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ <img alt="anaconda" src="https://anaconda.org/datacryptoanalytics/crypto-analysis-cli/badges/version.svg"> <a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a>     <img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">  <img alt="GitHub" src="https://img.shields.io/github/license/datacrypto-analytics/crypto-analysis-cli"> <img alt="anaconda" src="https://anaconda.org/datacryptoanalytics/crypto-analysis-cli/badges/latest_release_relative_date.svg">
+ 
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">DataCrypto Analytics </a></h1>
+ <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/"> Quantitative Analysis Algorithms </a></h3>
 
-### Markdown
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Algoritmos Machine Learning para o mercado de <b>Criptomoedas</b>. Desenvolvido com rede neural e árvore de decisões que analisa as possiveís movimentações do mercado.
 
-# Header 1
-## Header 2
-### Header 3
+- Observe que no site temos a página <b>Resultados</b>, está hospedado o <i>Backtesting</i> da nossa última versão, e em nosso canal no  <a rel="Youtube" href="https://www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube</a> vídeos de instalação e configuração.
 
-- Bulleted
-- List
+------
+Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> market. Developed with neural network and decision tree that analyzes the possible movements of the market.
 
-1. Numbered
-2. List
+- Note that on the website we have the <b> Results </b> page, the <i> Backtesting </i> of our latest version is hosted, and on our channel at <a rel = "Youtube" href = "https: //www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube </a> installation and configuration videos.
+-----
+![](giff.gif)
 
-**Bold** and _Italic_ and `Code` text
+<p align="center">
+  <img width="640" height="360" src="https://j.gifs.com/Gvl9ML.gif">
+</p>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datacrypto-analytics/crypto-analysis-cli/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h2><b>Instalação/Installation</b></h2>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Download and install Anaconda Project
+
+- [anaconda.com](https://www.anaconda.com/products/individual#Downloads)
+
+-----
+- Download
+
+`~$ git clone https://github.com/datacryptoanalytics/crypto-analysis-cli.git`
+
+
+`~$ cd crypto-analysis-cli`
+
+`~$ cd algorithms`
+
+-----
+- Abrir `datacrypto-analytics_sentimento.py ` e alterar as seguintes linhas:
+- Open `datacrypto-analytics_sentimento.py` and change the following lines:
+
+`13 consumer_key = 'SUA API KEY TWITTER'`
+
+`14 consumer_secret = 'SUA API SECRET KEY TWITTER'`
+
+`15`
+ 
+`16 access_token = 'SEU ACCESS TOKEN'`
+ 
+`17 access_token_secret = 'SEU ACCESS TOKEN'`
+
+
+------
+
+<h4>Instalar dependências necessárias/Install required dependencies </h4>
+
+
+- Instalar Requeriments.txt
+
+`~$ pip install -r requirements.txt`
+
+
+- NumPy
+
+`~$ pip install numpy`
+
+- Tweepy
+
+`~$ pip install tweepy`
+
+- Textblob
+
+`~$ pip install textblob`
+
+
+- PYTHON-BINANCE
+
+`~$ pip install python-binance`
+
+-------
+
+<h4>Iniciar algoritmo/Run algorithms</h4>
+
+
+`~$ python regressao-linear.py`
+
+`~$ python num-trades-binance-spot.py`
+
+`~$ python datacrypto-analytics_sentimento.py`
+
+
+
+
+
+<i>Atenção: Este repositório não contém os algoritmos a venda em nosso <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">site</a>. </i>
+
+------
+
+<a href="https://liberapay.com/datacryptoanalytics/donate">  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+<img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
+<img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/fsoarez">
