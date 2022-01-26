@@ -1,4 +1,4 @@
-
+//You are big, long live cryptoanarchyst like us.
  <img alt="anaconda" src="https://anaconda.org/datacryptoanalytics/crypto-analysis-cli/badges/version.svg"> <a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a>     <img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">  <img alt="GitHub" src="https://img.shields.io/github/license/datacrypto-analytics/crypto-analysis-cli"> <img alt="anaconda" src="https://anaconda.org/datacryptoanalytics/crypto-analysis-cli/badges/latest_release_relative_date.svg">
  
  
